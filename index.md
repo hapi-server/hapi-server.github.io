@@ -18,7 +18,7 @@ Lists of HAPI data servers are available at [https://github.com/hapi-server/cata
 API Verification
 ================
 
-See http://tsds.org/verify-hapi
+See [http://tsds.org/verify-hapi](http://tsds.org/verify-hapi).
 
 The repository for this verifier is located at [https://github.com/hapi-server/verifier-nodejs](https://github.com/hapi-server/verifier-nodejs).
 
