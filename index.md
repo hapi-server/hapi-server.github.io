@@ -13,7 +13,7 @@ Current [draft version](https://github.com/hapi-server/data-specification/blob/m
 Servers
 ===============
 
-Lists of HAPI data servers are available at [https://github.com/hapi-server/catalogs]([https://github.com/hapi-server/catalogs])
+Lists of HAPI data servers are available at [https://github.com/hapi-server/catalogs](https://github.com/hapi-server/catalogs)
 
 API Verification
 ================
