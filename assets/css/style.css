@@ -6,3 +6,8 @@
 header {
   display: none;
 }
+
+// Hide the hapi-server.github.io link as this page is used at hapi-server.org/
+h1:first-of-type {
+  display: none;
+}
