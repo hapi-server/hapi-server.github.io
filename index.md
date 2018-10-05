@@ -12,7 +12,7 @@ Current [draft version](https://github.com/hapi-server/data-specification/blob/m
 Servers
 ===============
 
-A list of HAPI data servers is available at [https://github.com/hapi-server/servers](https://github.com/hapi-server/servers)
+A list of HAPI data servers is available at [http://hapi-server.org/servers](http://hapi-server.org/servers)
 
 Client Software
 ===============
