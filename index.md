@@ -9,6 +9,11 @@ The HAPI specification describes a minimum set of capabilities needed for a serv
 
 Current [draft version](https://github.com/hapi-server/data-specification/blob/master/hapi-dev/HAPI-data-access-spec-dev.md)
 
+Email Lists
+
+* For annoucements related to the specification and related software: http://lists.igpp.ucla.edu/mailman/listinfo/hapi-news
+* For discussion of the specification: http://lists.igpp.ucla.edu/mailman/listinfo/hapi-dev
+
 Servers
 ===============
 
