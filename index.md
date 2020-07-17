@@ -22,7 +22,7 @@ A list of HAPI data servers is available at [http://hapi-server.org/servers](htt
 Client Software
 ===============
 
-See repositories with names starting with `client-` at [https://github.com/hapi-server](https://github.com/hapi-server) for IDL, MATLAB, and Python client software.
+See repositories with names starting with `client-` at [https://github.com/hapi-server](https://github.com/hapi-server?q=client-) for a list of available clients for IDL, Java, MATLAB, Python, and other languages.
 
 Data from HAPI servers can be visualized using [Autoplot](http://autoplot.org/) (<http://autoplot.org/>) by selecting `File` -\> `Add Plot From` -\> `hapi…`
 
