@@ -20,13 +20,13 @@ The GitHub project [hapi-server](http://github.com/hapi-server/) contains a coll
 Use the interface at [http://hapi-server.org/servers](http://hapi-server.org/servers/) to download data from your browser, generate \~10-line IDL/MATLAB/Python scripts to download data, and create preview plots.
 
 <a name="Email_Lists"></a>
-# Email Lists
+# 3. Email Lists
 
 * [Annoucements about HAPI-related software](http://lists.igpp.ucla.edu/mailman/listinfo/hapi-news)
 * [Discussion of the specification and telecon annoucements](http://lists.igpp.ucla.edu/mailman/listinfo/hapi-dev)
 
 <a name="Developers"></a>
-# Developers
+# 4. Developers
 
 <a name="API_and_Metadata_Specification"></a>
 ## 4.1 API and Metadata Specification
