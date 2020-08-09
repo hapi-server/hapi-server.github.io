@@ -17,7 +17,7 @@ The GitHub project [hapi-server](http://github.com/hapi-server/) contains a coll
 <a name="Get_Data"></a>
 # 2. Get Data
 
-Use the interface at [http://hapi-server.org/servers](http://hapi-server.org/servers/) to download data from your browser, generate \~10-line IDL/MATLAB/Python scripts to download data, and create preview plots.
+Use the interface at [http://hapi-server.org/servers/](http://hapi-server.org/servers/) to download data from your browser, generate \~10-line IDL/MATLAB/Python scripts to download data, and create preview plots.
 
 <a name="Email_Lists"></a>
 # 3. Email Lists
