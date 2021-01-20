@@ -22,8 +22,8 @@ Use the interface at [http://hapi-server.org/servers/](http://hapi-server.org/se
 <a name="Email_Lists"></a>
 # 3. Email Lists
 
-* [Annoucements about HAPI-related software](http://lists.igpp.ucla.edu/mailman/listinfo/hapi-news)
-* [Discussion of the specification and telecon annoucements](http://lists.igpp.ucla.edu/mailman/listinfo/hapi-dev)
+* [Annoucements about HAPI-related software](https://groups.io/g/hapi-news)
+* [Discussion of the specification and telecon annoucements](https://groups.io/g/hapi-dev)
 
 <a name="Developers"></a>
 # 4. Developers
