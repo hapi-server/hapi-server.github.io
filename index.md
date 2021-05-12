@@ -3,6 +3,7 @@
 3. [Email Lists](#Email_Lists)
 4. [Developers](#Developers)
 
+
 <a name="About"></a>
 # 1. About
 
@@ -33,8 +34,8 @@ Use the interface at [http://hapi-server.org/servers/](http://hapi-server.org/se
 
 The HAPI specification describes a minimum set of capabilities needed for a server to allow access to the time series data values within one or more data collections.
 
-* Current version (2.1.1): [PDF](https://github.com/hapi-server/data-specification/raw/master/hapi-2.1.1/HAPI-data-access-spec-2.1.1.pdf) | [HTML](https://github.com/hapi-server/data-specification/blob/master/hapi-2.1.1/HAPI-data-access-spec-2.1.1.md)
-* [Draft 3.0 version](https://github.com/hapi-server/data-specification/blob/master/hapi-dev/HAPI-data-access-spec-dev.md)
+* Current version (3.0.0): [PDF](https://github.com/hapi-server/data-specification/raw/master/hapi-3.0.0/HAPI-data-access-spec-3.0.0.pdf) | [HTML](https://github.com/hapi-server/data-specification/blob/master/hapi-3.0.0/HAPI-data-access-spec-3.0.0.md)
+* [Draft 3.1 version](https://github.com/hapi-server/data-specification/blob/master/hapi-dev/HAPI-data-access-spec-dev.md)
 
 <a name="Client_Software"></a>
 ## 4.2 Client Software
@@ -44,7 +45,7 @@ Data from any [HAPI-compliant server](http://hapi-server.org/servers/) can be ea
 <a name="Server_Software"></a>
 ## 4.3 Server Software
 
-Prior to writing server-side software, we suggest trying [the generic stand-alone HAPI server](https://github.com/hapi-server/server-nodejs). If you can generate [HAPI ASCII](https://github.com/hapi-server/data-specification/blob/master/hapi-2.1.0/HAPI-data-access-spec-2.1.0.md#data-stream-content#data-with-header) of your datasets with a command line program, you can use this server to quickly get a HAPI-compliant server running on your site.
+Prior to writing server-side software, we suggest trying [the generic stand-alone HAPI server](https://github.com/hapi-server/server-nodejs). If you can generate [HAPI ASCII](https://github.com/hapi-server/data-specification/blob/master/hapi-3.0.0/HAPI-data-access-spec-3.0.0.md#data-stream-content#data-with-header) of your datasets with a command line program, you can use this server to quickly get a HAPI-compliant server running on your site.
 
 User-contributed source code for servers in various languages is available at [at GitHub](https://github.com/hapi-server?q=server-). This contributed code is typically not up-to-date or generalized but it may be useful for getting started.
 
