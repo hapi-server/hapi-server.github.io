@@ -13,7 +13,7 @@ When data are available from a HAPI server, there is no need to download data fi
 
 A list of HAPI-compliant data servers is available at [http://hapi-server.org/servers/](http://hapi-server.org/servers/).
 
-The GitHub project [hapi-server](http://github.com/hapi-server/) contains a collection of HAPI-related software and documentation, including client and server libraries and code for verifying and testing a HAPI server.
+The [GitHub project hapi-server](http://github.com/hapi-server/) contains a collection of HAPI-related software and documentation, including client and server libraries and code for verifying and testing a HAPI server.
 
 <a name="Get_Data"></a>
 # 2. Get Data
