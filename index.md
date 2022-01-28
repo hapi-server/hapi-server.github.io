@@ -9,7 +9,7 @@ Table of Contents
 <a name="About"></a>
 # 1. About
 
-The Heliophysics Data Application Programmer's Interface (HAPI) specification is a time series download and streaming format specification. A 1-page summary is given in [HAPI_OnePager.pdf](HAPI_OnePager_v4.pdf). A more detailed overview is given in the JGR article [Weigel et al., 2021](docs/Weigel_2021_HAPI-An_API_Standard_for_Accessing_Heliophysics_Time_Series_Data.pdf).
+The Heliophysics Data Application Programmer's Interface (HAPI) specification is a time series download and streaming format specification. A 1-page summary is given in [HAPI_OnePager.pdf](docs/HAPI_OnePager_v4.pdf). A more detailed overview is given in the JGR article [Weigel et al., 2021](docs/Weigel_2021_HAPI-An_API_Standard_for_Accessing_Heliophysics_Time_Series_Data.pdf).
 
 When data are available from a HAPI server, there is no need to download data files and write custom file reader programs. Using a HAPI client library, data can be loaded into an array using a single command in IDL, MATLAB, and Python.
 
