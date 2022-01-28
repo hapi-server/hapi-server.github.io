@@ -1,3 +1,5 @@
+Table of Contents
+
 1. [About](#About)
 2. [Get Data](#Get_Data)
 3. [Email Lists](#Email_Lists)
@@ -7,13 +9,13 @@
 <a name="About"></a>
 # 1. About
 
-The Heliophysics Data Application Programmer's Interface (HAPI) specification is a time series download and streaming format specification.
+The Heliophysics Data Application Programmer's Interface (HAPI) specification is a time series download and streaming format specification. A 1-page summary is given in [HAPI_OnePager.pdf](HAPI_OnePager_v4.pdf). A more detailed overview is given in the JGR article [Weigel et al., 2021](docs/Weigel_2021_HAPI-An_API_Standard_for_Accessing_Heliophysics_Time_Series_Data.pdf).
 
 When data are available from a HAPI server, there is no need to download data files and write custom file reader programs. Using a HAPI client library, data can be loaded into an array using a single command in IDL, MATLAB, and Python.
 
 A list of HAPI-compliant data servers is available at [http://hapi-server.org/servers/](http://hapi-server.org/servers/).
 
-The [GitHub project hapi-server](http://github.com/hapi-server/) contains a collection of HAPI-related software and documentation, including client and server libraries and code for verifying and testing a HAPI server.
+The [hapi-server](http://github.com/hapi-server/) GitHub project contains a collection of HAPI-related software and documentation, including client and server libraries and code for verifying and testing a HAPI server.
 
 <a name="Get_Data"></a>
 # 2. Get Data
@@ -25,6 +27,7 @@ Use the interface at [http://hapi-server.org/servers/](http://hapi-server.org/se
 
 * [Announcements about HAPI-related software](https://groups.io/g/hapi-news)
 * [Discussion of the specification and telecon announcements](https://groups.io/g/hapi-dev)
+* [Help on HAPI-related issues](https://groups.io/g/hapi-help/)
 
 <a name="Developers"></a>
 # 4. Developers
@@ -34,7 +37,7 @@ Use the interface at [http://hapi-server.org/servers/](http://hapi-server.org/se
 
 The HAPI specification describes a minimum set of capabilities needed for a server to allow access to the time series data values within one or more data collections.
 
-* Current version (3.0.0): [PDF](https://github.com/hapi-server/data-specification/raw/master/hapi-3.0.0/HAPI-data-access-spec-3.0.0.pdf) | [HTML](https://github.com/hapi-server/data-specification/blob/master/hapi-3.0.0/HAPI-data-access-spec-3.0.0.md)
+* Current version (3.0.0): [PDF](https://github.com/hapi-server/data-specification/raw/master/hapi-3.0.0/HAPI-data-access-spec-3.0.0.pdf) \| [HTML](https://github.com/hapi-server/data-specification/blob/master/hapi-3.0.0/HAPI-data-access-spec-3.0.0.md)
 * [Draft 3.1 version](https://github.com/hapi-server/data-specification/blob/master/hapi-dev/HAPI-data-access-spec-dev.md)
 
 <a name="Client_Software"></a>
