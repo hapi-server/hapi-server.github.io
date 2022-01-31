@@ -32,6 +32,8 @@ Use the interface at [http://hapi-server.org/servers/](http://hapi-server.org/se
 <a name="Developers"></a>
 # 4. Developers
 
+All software related to the HAPI specification is available from its [GitHub project page](https://github.com/hapi-server/). Software includes clients, servers, and verifiers.
+
 <a name="API_and_Metadata_Specification"></a>
 ## 4.1 API and Metadata Specification
 
