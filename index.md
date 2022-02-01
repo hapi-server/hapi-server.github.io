@@ -11,11 +11,9 @@ Table of Contents
 
 The Heliophysics Data Application Programmer's Interface (HAPI) specification is a time series download and streaming format specification. A 1-page summary is given in [HAPI_OnePager.pdf](docs/HAPI_OnePager_v4.pdf). A more detailed overview is given in the JGR article [Weigel et al., 2021](docs/Weigel_2021_HAPI-An_API_Standard_for_Accessing_Heliophysics_Time_Series_Data.pdf).
 
-When data are available from a HAPI server, there is no need to download data files and write custom file reader programs. Using a HAPI client library, data can be loaded into an array using a single command using HAPI [IDL](https://github.com/hapi-server/client-idl), [MATLAB](https://github.com/hapi-server/client-matlab), and [Python](https://github.com/hapi-server/client-python) clients. Data from HAPI servers is also accessible to users of [Autoplot](http://autoplot.org/), [PySPEDAS](https://github.com/spedas/pyspedas), and [IDL SPEDAS](http://spedas.org/wiki/index.php?title=Heliophysics_Application_Programmer%E2%80%99s_Interface).
+When data are available from a HAPI server, there is no need to download data files and write custom file reader programs. Using a HAPI client library, data can be loaded into an array using a single command using HAPI [IDL](https://github.com/hapi-server/client-idl), [MATLAB](https://github.com/hapi-server/client-matlab), and [Python](https://github.com/hapi-server/client-python) clients. Data from HAPI servers is also accessible to users of [Autoplot](http://autoplot.org/), [PySPEDAS](https://github.com/spedas/pyspedas), and [IDL SPEDAS](http://spedas.org/wiki/index.php?title=Heliophysics_Application_Programmer%E2%80%99s_Interface). Sample scripts and containing instructions for accessing data using the above--listed clients may be found by selecting a server, dataset, and time range at the web interface [http://hapi-server.org/servers/](http://hapi-server.org/servers/). 
 
 A list of HAPI-compliant data servers is available at [http://hapi-server.org/servers/](http://hapi-server.org/servers/).
-
-%Sample scripts and containing instructions for accessing data using the above--listed clients may be found by selecting a dataset using the web interface  [http://hapi-server.org/servers/](http://hapi-server.org/servers/). For example
 
 The [hapi-server GitHub project](https://github.com/hapi-server?type=all&language=&sort=name) contains a collection of repositories for HAPI--related software and documentation, including client and server libraries and code for verifying and testing a HAPI server.
 
