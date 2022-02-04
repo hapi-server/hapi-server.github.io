@@ -20,7 +20,9 @@ The [hapi-server GitHub project](https://github.com/hapi-server?type=all&languag
 <a name="Get_Data"></a>
 # 2. Get Data
 
-Use the interface at [http://hapi-server.org/servers/](http://hapi-server.org/servers/) to download data from your browser, generate \~10-line IDL/MATLAB/Python scripts to download data, and create preview plots.
+Use the interface at [http://hapi-server.org/servers/](http://hapi-server.org/servers/) to download data from your browser, generate \~10-line wget/curl/IDL/MATLAB/Python scripts to download data, or create preview plots.
+
+See https://www.youtube.com/watch?v=dBV2yxoHkDU for a demonstration of using 5 different clients to access data from a HAPI server.
 
 <a name="Email_Lists"></a>
 # 3. Email Lists
@@ -54,6 +56,6 @@ Prior to writing server-side software, we suggest trying [the generic stand-alon
 
 User-contributed source code for servers in various languages is available at [at GitHub](https://github.com/hapi-server?q=server-). This contributed code is typically not up-to-date or generalized but it may be useful for getting started.
 
-See the [server-ui](https://github.com/hapi-server/server-ui) repoistory for a basic server entry/overview page template for a HAPI server. Code is also available for a web interface for generating URLs to download data, plotting data from a HAPI server, and generating scripts that read and plot the selected parameter (the code used by [http://hapi-server.org/servers/](http://hapi-server.org/servers/)).
+See the [server-ui](https://github.com/hapi-server/server-ui) repository for a basic server entry/overview page template for a HAPI server. Code is also available for a web interface for generating URLs to download data, plotting data from a HAPI server, and generating scripts that read and plot the selected parameter (the code used by [http://hapi-server.org/servers/](http://hapi-server.org/servers/)).
 
 Server developers can test their server for HAPI-compliance using [the HAPI server verification service](http://hapi-server.org/verify).
