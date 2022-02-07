@@ -9,7 +9,9 @@ Table of Contents
 <a name="About"></a>
 # 1. About
 
-The Heliophysics Data Application Programmer's Interface (HAPI) specification is a time series download and streaming format specification. A 1-page summary is given in [HAPI_OnePager.pdf](docs/HAPI_OnePager_v4.pdf). A more detailed overview is given in the JGR article [Weigel et al., 2021](docs/Weigel_2021_HAPI-An_API_Standard_for_Accessing_Heliophysics_Time_Series_Data.pdf).
+The Heliophysics Data Application Programmer's Interface (HAPI) specification is a time series download and streaming format specification. A 1-page summary is given in [HAPI_OnePager.pdf](docs/HAPI_OnePager_v4.pdf). A more detailed overview is given in the JGR article [Weigel et al., 2021](docs/Weigel_2021_HAPI-An_API_Standard_for_Accessing_Heliophysics_Time_Series_Data.pdf) and the presentation by Vandegriff et al. [[pdf](docs/HAPI_overview.pdf)|[YouTube video]()].
+
+The HAPI specification was [recommended by COSPAR](docs/2021_COSPAR.pdf) in 2018 as the common data access API for space science and space weather data.
 
 When data are available from a HAPI server, there is no need to download data files and write custom file reader programs. Using a HAPI client library, data can be loaded into an array using a single command using HAPI [IDL](https://github.com/hapi-server/client-idl), [MATLAB](https://github.com/hapi-server/client-matlab), and [Python](https://github.com/hapi-server/client-python) clients. Data from HAPI servers is also accessible to users of [Autoplot](http://autoplot.org/), [PySPEDAS](https://github.com/spedas/pyspedas), and [IDL SPEDAS](http://spedas.org/wiki/index.php?title=Heliophysics_Application_Programmer%E2%80%99s_Interface). Sample scripts and containing instructions for accessing data using the above--listed clients may be found by selecting a server, dataset, and time range at the web interface [http://hapi-server.org/servers/](http://hapi-server.org/servers/). 
 
@@ -22,7 +24,7 @@ The [hapi-server GitHub project](https://github.com/hapi-server?type=all&languag
 
 Use the interface at [http://hapi-server.org/servers/](http://hapi-server.org/servers/) to download data from your browser, generate \~10-line wget/curl/IDL/MATLAB/Python scripts to download data, or create preview plots.
 
-See https://www.youtube.com/watch?v=dBV2yxoHkDU for a demonstration of using 5 different clients to access data from a HAPI server.
+A demonstration of using 5 different clients to access data from a HAPI server is shown in a [YouTube video](https://www.youtube.com/watch?v=dBV2yxoHkDU).
 
 <a name="Email_Lists"></a>
 # 3. Email Lists
@@ -34,7 +36,7 @@ See https://www.youtube.com/watch?v=dBV2yxoHkDU for a demonstration of using 5 d
 <a name="Developers"></a>
 # 4. Developers
 
-All software related to the HAPI specification is available from its [GitHub project page](https://github.com/hapi-server/). Software includes clients, servers, and verifiers.
+All software related to the HAPI specification is available from its [GitHub project page](https://github.com/hapi-server/). Software includes clients, servers, and a server verifier/validator.
 
 <a name="API_and_Metadata_Specification"></a>
 ## 4.1 API and Metadata Specification
