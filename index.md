@@ -9,7 +9,7 @@ Table of Contents
 <a name="About"></a>
 # 1. About
 
-The Heliophysics Data Application Programmer's Interface (HAPI) specification is a time series download and streaming format specification. A 1-page summary is given in [HAPI_OnePager.pdf](docs/HAPI_OnePager_v4.pdf). A more detailed overview is given in the JGR article [Weigel et al., 2021](docs/Weigel_2021_HAPI-An_API_Standard_for_Accessing_Heliophysics_Time_Series_Data.pdf) and the presentation by Vandegriff et al. [[pdf](docs/HAPI_overview.pdf)|[YouTube video]()].
+The Heliophysics Data Application Programmer's Interface (HAPI) specification is a time series download and streaming format specification. A 1-page summary is given in [HAPI_OnePager.pdf](docs/HAPI_OnePager_v4.pdf). A more detailed overview is given in the JGR article [Weigel et al., 2021](docs/Weigel_2021_HAPI-An_API_Standard_for_Accessing_Heliophysics_Time_Series_Data.pdf) and the presentation by Vandegriff et al. [[pdf](docs/HAPI_overview.pdf)|[YouTube video](https://youtu.be/EIMIyXfpbxI)].
 
 The HAPI specification was [recommended by COSPAR](docs/2021_COSPAR.pdf) in 2018 as the common data access API for space science and space weather data.
 
