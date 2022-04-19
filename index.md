@@ -1,3 +1,5 @@
+<div class="main">
+  <div class="full">
 Table of Contents
 
 1. [About](#About)
@@ -61,3 +63,14 @@ User-contributed source code for servers in various languages is available at [a
 See the [server-ui](https://github.com/hapi-server/server-ui) repository for a basic server entry/overview page template for a HAPI server. Code is also available for a web interface for generating URLs to download data, plotting data from a HAPI server, and generating scripts that read and plot the selected parameter (the code used by [http://hapi-server.org/servers/](http://hapi-server.org/servers/)).
 
 Server developers can test their server for HAPI-compliance using [the HAPI server verification service](http://hapi-server.org/verify).
+  </div>
+</div>
+<div class="row">
+  <div class="column">
+More soon.
+  </div>
+  <div class="column">
+Tutorials available
+  </div>
+  </div>
+  
