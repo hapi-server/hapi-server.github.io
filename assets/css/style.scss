@@ -13,11 +13,12 @@ h1:first-of-type {
 }
 
 body {
-    background: #F0F2F0;
+    background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(55,55,108,1) 35%, rgba(0,212,255,1) 100%);
 }
 
 .container-lg {
     border: 2px solid black;
     border-radius: 1em;
     background-color: white;
+    padding: 1em;
 }
