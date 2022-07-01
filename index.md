@@ -61,8 +61,3 @@ User-contributed source code for servers in various languages is available at [a
 See the [server-ui](https://github.com/hapi-server/server-ui) repository for a basic server entry/overview page template for a HAPI server. Code is also available for a web interface for generating URLs to download data, plotting data from a HAPI server, and generating scripts that read and plot the selected parameter (the code used by [http://hapi-server.org/servers/](http://hapi-server.org/servers/)).
 
 Server developers can test their server for HAPI-compliance using [the HAPI server verification service](http://hapi-server.org/verify).
-
-<a name="Server_Developers"></a>
-## 4.4 Server Developers  
-
-If you have developed a HAPI server and it is ready for production and would like to make it automatically visible to existing software in the HAPI ecosystem, see https://github.com/hapi-server/servers
