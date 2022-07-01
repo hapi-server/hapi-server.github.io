@@ -2,7 +2,7 @@ Table of Contents
 
 1. [About](#About)
 2. [Get Data](#Get_Data)
-3. [Email Lists](#Email_Lists)
+3. [Email Lists and Other Forums](#Email_Lists)
 4. [Developers](#Developers)
 
 
@@ -27,11 +27,12 @@ Use the interface at [http://hapi-server.org/servers/](http://hapi-server.org/se
 A demonstration of using 5 different clients to access data from a HAPI server is shown in a [YouTube video](https://www.youtube.com/watch?v=dBV2yxoHkDU).
 
 <a name="Email_Lists"></a>
-# 3. Email Lists
+# 3. Email Lists and Other Forums
 
 * [Announcements about HAPI-related software](https://groups.io/g/hapi-news)
 * [Discussion of the specification and telecon announcements](https://groups.io/g/hapi-dev)
-* [Help on HAPI-related issues](https://groups.io/g/hapi-help/)
+* [Email Forum for general HAPI-related issues and questions](https://groups.io/g/hapi-help/) 
+* [Github Discussions for general HAPI-related issues and questions](https://github.com/hapi-server/data-specification/discussions)
 
 <a name="Developers"></a>
 # 4. Developers
@@ -61,3 +62,8 @@ User-contributed source code for servers in various languages is available at [a
 See the [server-ui](https://github.com/hapi-server/server-ui) repository for a basic server entry/overview page template for a HAPI server. Code is also available for a web interface for generating URLs to download data, plotting data from a HAPI server, and generating scripts that read and plot the selected parameter (the code used by [http://hapi-server.org/servers/](http://hapi-server.org/servers/)).
 
 Server developers can test their server for HAPI-compliance using [the HAPI server verification service](http://hapi-server.org/verify).
+
+<a name="Server_Developers"></a>
+## 4.4 Server Developers  
+
+If you have developed a HAPI server and it is ready for production and would like to make it automatically visible to existing software in the HAPI ecosystem, see https://github.com/hapi-server/servers
