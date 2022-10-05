@@ -33,6 +33,7 @@ A demonstration of using 5 different clients to access data from a HAPI server i
 * [Discussion of the specification and telecon announcements](https://groups.io/g/hapi-dev)
 * [Email Forum for general HAPI-related issues and questions](https://groups.io/g/hapi-help/) 
 * [Github Discussions for general HAPI-related issues and questions](https://github.com/hapi-server/data-specification/discussions)
+* HAPI Community Forum: view [videos of the presentations](https://www.youtube.com/channel/UCWDaZ2OXsoCOH3eLGf9achg/videos) or download [slides from the presenters](https://github.com/hapi-server/hapi-server.github.io/tree/master/docs)
 
 <a name="Developers"></a>
 # 4. Developers
